@@ -14,4 +14,4 @@ The database used in this work is SIGNS, consisting of hand signal images create
 
 The database contains 1080 training examples and 120 test examples. Each example consists of a colored image associated with a label of 6 classes. The figure below shows some examples of these images.
 
-![](/img/SINGS.png)
+![](img/SIGNS.png)
